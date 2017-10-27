@@ -10,3 +10,4 @@ Sie können direkt programmatisch in eine Session geladen werden:
 * __KidIQ__. Datensatz aus Gelman & Hill (2006). _delimiter = ";", missings = ""_
 * __STAR__. Datensatz des Tennessee's Student Teacher Achievement Ratio project (2006). _Delimiter = ";", Missings = ""; Codes = siehe gleichnamige .sav-Datei_
 * __VertEig__. Simulierter Datensatz einer Selbstevaluation von Unterrichtsqualität (Gruppen: Klasse, restliche Schule) zur Untersuchung von Verteilungseigenschaften und -effekten. _Delimiter = ";", Missings = ""_
+* __NotenDaten_Standardisierung__ Simulierter Datensatz zweier Klassenarbeiten bei derselben Klasse. _Delimiter = ";", Missings = "")_
